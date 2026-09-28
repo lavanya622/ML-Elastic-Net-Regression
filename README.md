@@ -233,13 +233,5 @@ This practical provided hands-on understanding of **regularized regression and t
 
 ---
 
-🚀 Conclusion
-
-Elastic Net Regression is a regularized linear regression technique that combines L1 and L2 penalties.
-
-It is particularly useful when dealing with multiple features and correlated predictors. By adjusting alpha and l1_ratio, the balance between regularization and model flexibility can be controlled.
-
-This practical provides a foundation for understanding regularization techniques used in machine learning regression problems.
-
 
 ⭐ Part of my Machine Learning Practical Series
